@@ -46,7 +46,6 @@ public class Main
                     break;
             }
         }while(!done);
-
     }
     private static void displayList(ArrayList<String> myArrList)
     {
